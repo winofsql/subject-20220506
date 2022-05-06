@@ -41,3 +41,10 @@ javascript:document.getElementById("ri-cmn-hdr-sitem").value="父の日";void(0)
 
 ## CSV ODBC32 構成
 ![image](https://user-images.githubusercontent.com/1501327/167074500-eb77211d-32a0-43b8-b2c6-a165d2816e4b.png)
+
+
+## 手作業の C#プロジェクト の作成
+```
+dotnet new console -f net5.0 
+dotnet add package System.Data.Odbc
+```
