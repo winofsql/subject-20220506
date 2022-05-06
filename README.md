@@ -36,3 +36,5 @@ javascript:document.getElementById("ri-cmn-hdr-sitem").value="父の日";void(0)
 ## MySQL ODBC32 構成
 ![image](https://user-images.githubusercontent.com/1501327/167072410-6023949c-f2e3-4d56-b37e-d2f285f25bec.png)
 
+## Sqlite3 ODBC32 構成
+![image](https://user-images.githubusercontent.com/1501327/167073252-e7a21d26-5f98-472b-9880-793483b1e35e.png)
