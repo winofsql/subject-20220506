@@ -38,3 +38,6 @@ javascript:document.getElementById("ri-cmn-hdr-sitem").value="父の日";void(0)
 
 ## Sqlite3 ODBC32 構成( このままでは化けるので使用できない )
 ![image](https://user-images.githubusercontent.com/1501327/167073252-e7a21d26-5f98-472b-9880-793483b1e35e.png)
+
+## CSV ODBC32 構成
+![image](https://user-images.githubusercontent.com/1501327/167074500-eb77211d-32a0-43b8-b2c6-a165d2816e4b.png)
