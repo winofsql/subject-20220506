@@ -21,4 +21,5 @@ document.getElementById("ri-cmn-hdr-sitem").style.textAlign = "right"
 - ブックマークレットで入力を省く
 ```js
 javascript:jQuery("#ri-cmn-hdr-sitem").val("母の日");void(0);
+javascript:document.getElementById("ri-cmn-hdr-sitem").value="父の日";void(0);
 ```
