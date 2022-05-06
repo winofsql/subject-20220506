@@ -48,3 +48,16 @@ javascript:document.getElementById("ri-cmn-hdr-sitem").value="父の日";void(0)
 dotnet new console -f net5.0 
 dotnet add package System.Data.Odbc
 ```
+
+## .htaccess
+```
+DirectoryIndex index.php
+Options +Indexes
+DirectoryIndex /index/files.php
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+RewriteRule ^ http://%1%{REQUEST_URI} [L,R=301]
+```
