@@ -8,6 +8,8 @@ jQuery("#common-header-search-input").val("母の日")
 ```js
 jQuery("#ri-cmn-hdr-sitem").val()
 jQuery("#ri-cmn-hdr-sitem").css("background-color","aqua")
+jQuery("#ri-cmn-hdr-sitem").css({ "background-color":"gray", "text-align":"right" })
+
 ```
 - DOM で値セット
 ```js
