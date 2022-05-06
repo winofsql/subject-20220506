@@ -14,6 +14,7 @@ jQuery("#ri-cmn-hdr-sitem").css({ "background-color":"gray", "text-align":"right
 - DOM で値セット
 ```js
 document.getElementById("ri-cmn-hdr-sitem").value = "母の日 プレゼント 洋菓子"
+document.getElementById("ri-cmn-hdr-sitem").style.backgroundColor = "gray"
 ```
 
 
