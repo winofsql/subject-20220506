@@ -23,3 +23,6 @@ document.getElementById("ri-cmn-hdr-sitem").style.textAlign = "right"
 javascript:jQuery("#ri-cmn-hdr-sitem").val("母の日");void(0);
 javascript:document.getElementById("ri-cmn-hdr-sitem").value="父の日";void(0);
 ```
+
+### 掲示板初期画面
+![image](https://user-images.githubusercontent.com/1501327/167070439-dceaf5ce-8ca4-40cc-9aea-a5a19b7904dd.png)
