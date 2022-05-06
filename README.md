@@ -18,4 +18,7 @@ document.getElementById("ri-cmn-hdr-sitem").style.backgroundColor = "gray"
 document.getElementById("ri-cmn-hdr-sitem").style.textAlign = "right"
 ```
 
-
+- ブックマークレットで入力を省く
+```js
+javascript:jQuery("#ri-cmn-hdr-sitem").val("母の日");void(0);
+```
