@@ -8,5 +8,9 @@ jQuery("#common-header-search-input").val("母の日")
 ```js
 jQuery("#ri-cmn-hdr-sitem").val()
 ```
+- DOM で値セット
+```js
+document.getElementById("ri-cmn-hdr-sitem").value = "母の日 プレゼント 洋菓子"
+```
 
 
