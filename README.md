@@ -29,3 +29,6 @@ javascript:document.getElementById("ri-cmn-hdr-sitem").value="父の日";void(0)
 
 ### VSCode : MySQL 接続作成
 ![image](https://user-images.githubusercontent.com/1501327/167071194-70bf142c-0585-4095-83c3-8b58a2d9480b.png)
+
+### Sqlite3
+![image](https://user-images.githubusercontent.com/1501327/167071542-63832115-6506-41fb-9f60-4ac6f5dee6da.png)
