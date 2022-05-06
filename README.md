@@ -26,3 +26,6 @@ javascript:document.getElementById("ri-cmn-hdr-sitem").value="父の日";void(0)
 
 ### 掲示板初期画面
 ![image](https://user-images.githubusercontent.com/1501327/167070439-dceaf5ce-8ca4-40cc-9aea-a5a19b7904dd.png)
+
+### VSCode : MySQL 接続作成
+![image](https://user-images.githubusercontent.com/1501327/167071194-70bf142c-0585-4095-83c3-8b58a2d9480b.png)
